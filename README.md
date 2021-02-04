@@ -7,7 +7,7 @@ The aim of this research project is to find:
 
 
 Technology:
-Monodepth
+YOLO & Monodepth
 
 
 Test Input: 
