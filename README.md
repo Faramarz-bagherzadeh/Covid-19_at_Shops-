@@ -9,6 +9,7 @@ The aim of this research project is to find:
 Technology:
 YOLO & Monodepth
 
+https://github.com/ialhashim/DenseDepth
 
 Test Input: 
 https://www.youtube.com/watch?v=KMJS66jBtVQ
